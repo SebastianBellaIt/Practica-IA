@@ -1,0 +1,5 @@
+
+personas(123, juan).
+personas(124, jorge).
+
+

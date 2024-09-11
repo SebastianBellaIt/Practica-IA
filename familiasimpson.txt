@@ -1,0 +1,21 @@
+hombre(homero).
+hombre(bart).
+hombre(abraham).
+hombre(clancy).
+hombre(herbert).
+mujer(mona).
+mujer(jacqueline).
+mujer(marge).
+mujer(patty).
+mujer(selma).
+mujer(lisa).
+mujer(maggie).
+mujer(ling).
+padres(homero, abraham, mona).
+padres(herbert, abraham, mona).
+padres(marge, clancy, jacqueline).
+padres(patty, clancy, jacqueline).
+padres(selma, clancy, jacqueline).
+padres(bart, homero, marge).
+padres(lisa, homero, marge).
+padres(maggie, homero, marge).

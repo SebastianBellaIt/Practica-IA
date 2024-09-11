@@ -1,0 +1,5 @@
+:- dynamic gasto/3.
+
+gasto(seba, agua, 1000).
+gasto(mario, gas, 2003).
+
